@@ -1,5 +1,6 @@
 # word_cloud_CO_presidents_candidates
-A simple word cloud showing the typical speech of the presidential candidates in Colombia 2022.
+A simple word cloud showing the typical speech of the presidential candidates in Colombia 2022. 
+The worcloud doesn't have any titles because I want it to speak for itself.
 
 I followed the code from a Platzi Teacher (Luis Novelo) in the Business Intelligence Course.
 The websites URL are randomized from different sources.
